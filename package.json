@@ -11,7 +11,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-particles-js": "^3.4.1",
-    "react-scripts": "1.0.17",
+    "react-scripts": "^1.0.17",
     "react-tilt": "^0.1.4",
     "tachyons": "^4.9.0",
     "web-vitals": "^0.2.4"
@@ -34,6 +34,7 @@
   "browserslist": {
     "production": [
       ">0.2%",
+    
       "not op_mini all"
     ],
     "development": [
@@ -42,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "author": "Ravineel Singhi"
+  "author": "4Ravineel Singhi"
 }
